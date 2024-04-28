@@ -1,0 +1,14 @@
+C:\Users\BERTRAND\Documents\Projetos\Treinar\bin\Debug\net7.0\Treinar.exe
+C:\Users\BERTRAND\Documents\Projetos\Treinar\bin\Debug\net7.0\Treinar.deps.json
+C:\Users\BERTRAND\Documents\Projetos\Treinar\bin\Debug\net7.0\Treinar.runtimeconfig.json
+C:\Users\BERTRAND\Documents\Projetos\Treinar\bin\Debug\net7.0\Treinar.dll
+C:\Users\BERTRAND\Documents\Projetos\Treinar\bin\Debug\net7.0\Treinar.pdb
+C:\Users\BERTRAND\Documents\Projetos\Treinar\obj\Debug\net7.0\Treinar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERTRAND\Documents\Projetos\Treinar\obj\Debug\net7.0\Treinar.AssemblyInfoInputs.cache
+C:\Users\BERTRAND\Documents\Projetos\Treinar\obj\Debug\net7.0\Treinar.AssemblyInfo.cs
+C:\Users\BERTRAND\Documents\Projetos\Treinar\obj\Debug\net7.0\Treinar.csproj.CoreCompileInputs.cache
+C:\Users\BERTRAND\Documents\Projetos\Treinar\obj\Debug\net7.0\Treinar.dll
+C:\Users\BERTRAND\Documents\Projetos\Treinar\obj\Debug\net7.0\refint\Treinar.dll
+C:\Users\BERTRAND\Documents\Projetos\Treinar\obj\Debug\net7.0\Treinar.pdb
+C:\Users\BERTRAND\Documents\Projetos\Treinar\obj\Debug\net7.0\Treinar.genruntimeconfig.cache
+C:\Users\BERTRAND\Documents\Projetos\Treinar\obj\Debug\net7.0\ref\Treinar.dll
