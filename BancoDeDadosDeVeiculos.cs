@@ -27,6 +27,21 @@ namespace Treinar
                 nome.Add(a);
             }
         }
+        public string Remover
+        {
+            set
+            {
+                string a = value;
+                nome.Remove(value);
+            }
+        }
+        public string AcessarNome
+        {
+            get
+            {
+                return nome[0];
+            }
+        }
     }
     // Classe Filha Carro
     public class Carro : Veiculo
@@ -37,11 +52,11 @@ namespace Treinar
             x.Adicionar = "Corolla";
         }
     }
-    public class Motos
+    public class Motos : Veiculo
     {
-
+        
     }
-    public class Caminhões
+    public class Caminhões : Veiculo
     {
 
     }
