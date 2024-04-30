@@ -9,14 +9,13 @@ namespace Treinar
     // Classe Pai Veiculo
     public class Veiculo
     {
-        private List<string> nome {get;set;}= new List<string>();
-        
+        private List<string> nome { get; set; } = new List<string>();
+
         public void Apresentar()
         {
-            System.Console.WriteLine($"{nome[0]}");
             foreach (string nomes in nome)
             {
-                System.Console.Write($"{nomes}, ");
+                System.Console.Write($"{nomes}\n");
             }
         }
         public string Adicionar
@@ -46,15 +45,11 @@ namespace Treinar
     // Classe Filha Carro
     public class Carro : Veiculo
     {
-        Veiculo x = new Veiculo();
-        public void DefinirNome()
-        {
-            x.Adicionar = "Corolla";
-        }
+
     }
     public class Motos : Veiculo
     {
-        
+
     }
     public class Caminhões : Veiculo
     {
